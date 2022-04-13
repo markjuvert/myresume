@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/juvert/Desktop/myresume/backend/tests/tests.csproj": {}
+    "/Volumes/Data Drive/IT/DevOps/myresume/backend/tests/tests.csproj": {}
   },
   "projects": {
-    "/Users/juvert/Desktop/myresume/backend/api/api.csproj": {
+    "/Volumes/Data Drive/IT/DevOps/myresume/backend/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/juvert/Desktop/myresume/backend/api/api.csproj",
+        "projectUniqueName": "/Volumes/Data Drive/IT/DevOps/myresume/backend/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/Users/juvert/Desktop/myresume/backend/api/api.csproj",
+        "projectPath": "/Volumes/Data Drive/IT/DevOps/myresume/backend/api/api.csproj",
         "packagesPath": "/Users/juvert/.nuget/packages/",
-        "outputPath": "/Users/juvert/Desktop/myresume/backend/api/obj/",
+        "outputPath": "/Volumes/Data Drive/IT/DevOps/myresume/backend/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/juvert/.nuget/NuGet/NuGet.Config"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/Users/juvert/Desktop/myresume/backend/tests/tests.csproj": {
+    "/Volumes/Data Drive/IT/DevOps/myresume/backend/tests/tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/juvert/Desktop/myresume/backend/tests/tests.csproj",
+        "projectUniqueName": "/Volumes/Data Drive/IT/DevOps/myresume/backend/tests/tests.csproj",
         "projectName": "tests",
-        "projectPath": "/Users/juvert/Desktop/myresume/backend/tests/tests.csproj",
+        "projectPath": "/Volumes/Data Drive/IT/DevOps/myresume/backend/tests/tests.csproj",
         "packagesPath": "/Users/juvert/.nuget/packages/",
-        "outputPath": "/Users/juvert/Desktop/myresume/backend/tests/obj/",
+        "outputPath": "/Volumes/Data Drive/IT/DevOps/myresume/backend/tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/juvert/.nuget/NuGet/NuGet.Config"
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/juvert/Desktop/myresume/backend/api/api.csproj": {
-                "projectPath": "/Users/juvert/Desktop/myresume/backend/api/api.csproj"
+              "/Volumes/Data Drive/IT/DevOps/myresume/backend/api/api.csproj": {
+                "projectPath": "/Volumes/Data Drive/IT/DevOps/myresume/backend/api/api.csproj"
               }
             }
           }
